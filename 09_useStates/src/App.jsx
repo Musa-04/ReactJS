@@ -1,0 +1,36 @@
+import React from 'react'
+import { useState } from 'react'
+
+const App = () => {
+
+
+   const [num,setNum]=useState(0)
+
+   function increaseNum(){
+    console.log('increasing.....')
+    setNum(num+1)
+
+   }
+   function decreaseNum(){
+    console.log('decreasing.....')
+    setNum(num-1)
+
+
+   }
+
+   function plus5(){
+    setNum(num+5)
+   }
+  return (
+    <div>
+      <h1>{num}</h1>
+      <button onClick={increaseNum}>increase</button>
+      <button onClick={decreaseNum}>decrease</button>
+      <button onClick={plus5}>increase by 5</button>
+
+
+    </div>
+  )
+}
+
+export default App
