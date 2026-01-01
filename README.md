@@ -11,6 +11,16 @@
 
 ---
 
+---
+
+## 👨‍🏫 Instructor
+
+**Saarthack**  
+GitHub: https://github.com/saarthack  
+
+Creator of the course and roadmap. Known for explaining React concepts with strong fundamentals, real-world projects, and production-ready practices.
+
+---
 ## ⚛️ Why This Repository Exists
 
 * To showcase my **React learning journey**
@@ -175,14 +185,5 @@
 * Light and dark themes
 * Protected routes and deployment
 
----
 
-## 👨‍🏫 Instructor
-
-**Saarthack**  
-GitHub: https://github.com/saarthack  
-
-Creator of the course and roadmap. Known for explaining React concepts with strong fundamentals, real-world projects, and production-ready practices.
-
----
 ⭐ This repository represents my learning journey in React.js. Feedback and suggestions are welcome.
